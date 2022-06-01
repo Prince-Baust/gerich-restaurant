@@ -60,6 +60,10 @@
     display: none;
 }
 
+.overlay__open {
+    cursor: pointer;
+}
+
 .app__navbar-smallscreen_overlay {
     position: fixed;
     top: 0;
