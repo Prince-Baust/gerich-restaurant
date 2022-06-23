@@ -8,12 +8,16 @@ Live Site Link: [https://restaurant-mah.netlify.app/](https://restaurant-mah.net
 
 ### Screenshots
 
-<!-- <div align="center"> 
-<p>Login Page</p>
-  <img width="600" height="500" src="screenshots/img1.png" alt="screenshot"/>
-<p>Dashboard</p>
+<div align="center"> 
+<p>Header</p>
+<img width="600" height="500" src="screenshots/img1.png" alt="screenshot"/>
+
+<p>Chef</p>
+<img width="600" height="500" src="screenshots/img2.png" alt="screenshot" />
+
+<p>Subscribe</p>
 <img width="600" height="500" src="screenshots/img3.png" alt="screenshot" />
-</div> -->
+</div>
 
 
 <!-- TechStack -->
